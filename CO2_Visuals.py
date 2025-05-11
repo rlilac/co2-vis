@@ -1,7 +1,7 @@
 #Rena L - May 10, 2025
-#This code  is the first program I've written in Python. It uses pandas and matplot to plot CO2 emissions data collected
-#by Our World In Data. The first plot shows the top 10 countries with the highest emissions, not including land-use change emissions.
-#The second plot shows the per capita CO2 emissions of the top 5 CO2 emitters (and Canada for comparison) over a period of 2 decades.
+#This code  uses pandas and matplot to plot CO2 emissions data collected by Our World In Data. The first plot shows the top 10 countries
+#with the highest emissions, not including land-use change emissions. The second plot shows the per capita CO2 emissions of the top 5 CO2 
+#emitters (and Canada for comparison) over a period of 2 decades.
 
 import pandas as pd
 import matplotlib.pyplot as plt
